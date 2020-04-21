@@ -11,4 +11,4 @@ This is a GUI calculator file implemented in Python with tkinter module.
 
 
 ----------------------------------------------------------------
-### Author : [Keshav Kabra](Keshavkabra.official@gmail.com)
+### Author : [Keshav Kabra](https://www.quora.com/profile/Keshav-Kabra-12?q=keshav%20)
